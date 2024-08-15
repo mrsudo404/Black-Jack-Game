@@ -1,6 +1,6 @@
 # Blackjack Game README
 
-## Overview
+## Overview ##
 
 This is a Python implementation of the classic card game Blackjack. The game is played against a dealer, and the objective is to have a hand value as close to 21 as possible without exceeding it. This implementation features card shuffling, dealing, hand value calculation, and game logic for determining the winner.
 
